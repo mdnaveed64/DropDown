@@ -15,7 +15,7 @@ export const ServicesPage = () => {
   return (
     <div>
       <Container>
-        <h1>hiii</h1>
+        
         <DropdownButton
           id="dropdown-basic-button"
           title="Choose Device"
